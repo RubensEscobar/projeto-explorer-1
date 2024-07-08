@@ -1,0 +1,51 @@
+h1 {
+  font-family: "Inter", sans-serif;
+  font-size: 48px;
+  line-height: 56px;
+  font-weight: normal;
+
+  
+}
+h1 span {
+  font-weight: bold;
+}
+#box {
+max-width: 592px;
+margin: 0 auto 72px;
+}
+#box img {
+  margin-bottom: 72px;
+
+}
+#balls {
+ position: fixed;
+ bottom: 0px;
+ right: 0px;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+}
+span, a {
+  color: #FF9900;
+}
+p, #footer {
+ color: #7D7987;
+ font-size: 14px;
+ line-height: 28px;
+}
+
+#footer a + a {
+  margin-left: 28px;
+  
+}
+#footer {
+  margin-bottom: 33px;
+}
+.line {
+  height: 0;
+  width: 568px;
+  border: 1px solid #ECEFF2;
+  margin: 0 auto 8px;
+}
